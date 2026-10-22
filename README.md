@@ -78,16 +78,18 @@ The goal is to separate the features that matter from those that don't, using cl
     <td align="center"><b>Regression Fit</b></td>
   </tr>
   <tr>
-    <td><img src="images/budget_vs_gross_scatter.png" alt="Scatter plot of budget vs gross"></td>
-    <td><img src="images/budget_vs_gross_regression.png" alt="Regression plot of budget vs gross"></td>
+    <td><img width="1038" height="703" alt="Scatter plot of budget vs gross" src="https://github.com/user-attachments/assets/85f2ac9b-06d5-423c-a715-5d0a3e66a1d1" /></td>
+    <td><img width="1124" height="771" alt="Regression plot of budget vs gross" src="https://github.com/user-attachments/assets/1188dc40-014a-4b95-8e6d-64eedc0fcdc4"/></td>
   </tr>
   <tr>
     <td align="center"><b>Numeric Feature Correlations</b></td>
     <td align="center"><b>All Features (Encoded)</b></td>
   </tr>
   <tr>
-    <td><img src="images/correlation_heatmap_numeric.png" alt="Numeric correlation heatmap"></td>
-    <td><img src="images/correlation_heatmap_encoded.png" alt="Encoded correlation heatmap"></td>
+    <td><img width="938" height="696" alt="Numeric correlation heatmap" src="https://github.com/user-attachments/assets/4bfbe240-8b9c-440e-b223-0ea880543fad"/>
+   </td>
+    <td><img width="1019" height="748" alt="Encoded correlation heatmap" src="https://github.com/user-attachments/assets/fb8652c6-96ad-4fe7-b2f6-47ac95c9276a"/>
+  </td>
   </tr>
 </table>
 
